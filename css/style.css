@@ -1,3 +1,17 @@
 html{
     background: rgb(124, 189, 159);
 }
+header {
+    display:flex ;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(182, 29, 29);
+}
+
+.art {
+width: 100vw;
+height: 500px;
+}
+7777{
+
+}
