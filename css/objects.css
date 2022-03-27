@@ -1,0 +1,12 @@
+.pavers{
+display: flex;
+margin: 0 auto;
+align-items: center;
+justify-content: space-between;
+width: 650px;
+flex-direction: column;
+-webkit-box-shadow: 62px 73px 2px -14px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 62px 73px 2px -14px rgba(34, 60, 80, 0.2);
+box-shadow: 62px 73px 2px -14px rgba(34, 60, 80, 0.2);
+background-color: rgba(39, 173, 197, 0.575);
+}
